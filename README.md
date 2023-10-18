@@ -1,11 +1,5 @@
-<!doctype html>
-<html>
-  
-<body>
-<img src= ” C:\Users\Cleartech\Pictures\Aguia” alt=” GiChristo - QA” width=400 height=500>
-</body>
+![image](https://github.com/Giselesct/Giselesct.github.io/assets/146264797/6b47f1aa-e9e0-4479-8d45-1fa3b715ff89)
 
-</html>
 
 
 
