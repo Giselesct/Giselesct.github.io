@@ -4,7 +4,7 @@
 <!doctype html>
 <html>
 <body>
-<img src=”images/Aguia.png” alt=” GiChristo - QA” width=300 height=200>
+<img src=”images/AguiaPNG” alt=” GiChristo - QA” width=300 height=200>
 </body>
 </html>
 
