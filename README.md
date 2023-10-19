@@ -9,12 +9,12 @@
 
 Para executar este projeto você deve seguir os passos abaixo:
 
-Instale o https://nodejs.org/en (versão >= 12.x)
-Execute npm i --save-devpara instalar todas as dependências do projeto
-Execute npx playwright installpara instalar os navegadores usados ​​pelo Playwright
-Execute npm run cipara executar todo o conjunto de testes
-Corra npm run show-reportpara visualizar os relatórios
-Todos os artefatos de execução podem ser encontrados em ./artifacts, se você quiser remover esses arquivos, execute npm run clean.
+1-Instale o https://nodejs.org/en (versão >= 12.x)
+2-Execute npm i --save-devpara instalar todas as dependências do projeto
+3-Execute npx playwright installpara instalar os navegadores usados ​​pelo Playwright
+4-Execute npm run cipara executar todo o conjunto de testes
+5-Corra npm run show-reportpara visualizar os relatórios
+6-Todos os artefatos de execução podem ser encontrados em ./artifacts, se você quiser remover esses arquivos, execute npm run clean.
 
 
 
