@@ -1,6 +1,6 @@
 
 <h1 align="center"> Automação E2E com Playwright QA </h1>
-Me chamo Gisele Sou graduada em Sistemas de Infiornação desde 2018, e desde outubro de 2023 estou capacitada para atuar com automação de testes, aqui trago um exemplo de projeto E2E onde usei o Playwright para automatizar os testes realizados.
+Me chamo Gisele Sou graduada em Sistemas de Infornação desde 2018, e desde outubro de 2023 estou capacitada para atuar com automação de testes, aqui trago um exemplo de projeto E2E onde usei o Playwright para automatizar os testes realizados.
 
 
 
